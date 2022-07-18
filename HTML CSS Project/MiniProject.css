@@ -1,0 +1,62 @@
+body{
+    background: aqua;
+}
+.nav{
+text-align:right;
+}
+
+.nav a{
+text-decoration:none;
+}
+
+#heading{
+float: left;
+font-size: 25px;
+margin-left: 30px;
+
+}
+.nav ul li{
+display: inline;
+padding-right: 20px;
+}
+
+#text{
+padding-top: 100px;
+color:white;
+}
+
+#text1{
+padding: 30px;
+color:white;
+}
+
+.image{
+margin-top:25px;
+text-align:center;
+background-image: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/windows-laptop-using-1.jpg?q=50&fit=contain&w=750&h=375&dpr=1.5");
+height: 400px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.row{
+width:100%;
+margin-top:100px;
+}
+
+.column
+{float:left;
+width:25%;
+}
+
+.image1
+{
+padding-left:40px ;
+}
+
+.image3
+{
+padding-left:30px ;
+}
